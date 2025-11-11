@@ -1,0 +1,8 @@
+{
+  "name": "JS ćwiczenia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/strupello/JS-PRACTICE.git",
+  "author": "strupello <irek1992@gmail.com>",
+  "license": "MIT"
+}
